@@ -1,0 +1,4 @@
+selenium
+webdriver-manager
+google-cloud-storage
+google-cloud-logging

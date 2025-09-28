@@ -1,0 +1,63 @@
+main:
+  params: [input]
+  steps:
+    - init:
+        assign:
+          - project: "flipping-automation-prod"
+          - region: "us-central1"
+    - mark_start:
+        call: http.post
+        args:
+          url: ${"https://" + region + "-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/" + project + "/jobs/filemaker-start:run"}
+          auth:
+            type: OIDC
+    - run_scraper:
+        call: http.post
+        args:
+          url: ${"https://" + region + "-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/" + project + "/jobs/foreclosure-scraper:run"}
+          auth:
+            type: OIDC
+    - run_ocr:
+        call: http.post
+        args:
+          url: ${"https://" + region + "-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/" + project + "/jobs/foreclosure-ocr:run"}
+          auth:
+            type: OIDC
+    - run_prompt:
+        call: http.post
+        args:
+          url: ${"https://" + region + "-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/" + project + "/jobs/foreclosure-prompt:run"}
+          auth:
+            type: OIDC
+    - run_vertex:
+        call: http.post
+        args:
+          url: ${"https://" + region + "-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/" + project + "/jobs/foreclosure-vertex:run"}
+          auth:
+            type: OIDC
+    - run_appraiser:
+        call: http.post
+        args:
+          url: ${"https://" + region + "-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/" + project + "/jobs/foreclosure-appraiser:run"}
+          auth:
+            type: OIDC
+    - run_zillow:
+        call: http.post
+        args:
+          url: ${"https://" + region + "-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/" + project + "/jobs/foreclosure-zillow:run"}
+          auth:
+            type: OIDC
+    - upload_firestore:
+        call: http.post
+        args:
+          url: ${"https://" + region + "-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/" + project + "/jobs/foreclosure-firestore:run"}
+          auth:
+            type: OIDC
+    - mark_finish:
+        call: http.post
+        args:
+          url: ${"https://" + region + "-run.googleapis.com/apis/run.googleapis.com/v1/namespaces/" + project + "/jobs/filemaker-finish:run"}
+          auth:
+            type: OIDC
+    - return:
+        return: "workflow complete"

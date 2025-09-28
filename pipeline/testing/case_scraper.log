@@ -1,0 +1,2275 @@
+2024-09-12 21:54:03,432 - INFO - ====== WebDriver manager ======
+2024-09-12 21:54:03,681 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 21:54:03,755 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 21:54:03,817 - INFO - Driver [/Users/alexberish/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-x64/chromedriver] found in cache
+2024-09-12 21:56:46,858 - INFO - ====== WebDriver manager ======
+2024-09-12 21:56:47,079 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 21:56:47,145 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 21:56:47,204 - INFO - Driver [/Users/alexberish/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-x64/chromedriver] found in cache
+2024-09-12 21:56:51,428 - INFO - Waiting for CAPTCHA to be solved...
+2024-09-12 21:56:51,428 - ERROR - An unexpected error occurred: name 'time' is not defined
+2024-09-12 21:56:51,727 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bb00190>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5637c7886add74043fb72a43b5828ce8
+2024-09-12 21:56:51,729 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bb00160>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5637c7886add74043fb72a43b5828ce8
+2024-09-12 21:56:51,729 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bb024d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5637c7886add74043fb72a43b5828ce8
+2024-09-12 21:56:51,772 - INFO - Browser closed. Script finished.
+2024-09-12 21:57:00,234 - INFO - ====== WebDriver manager ======
+2024-09-12 21:57:00,421 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 21:57:00,479 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 21:57:00,534 - INFO - Driver [/Users/alexberish/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-x64/chromedriver] found in cache
+2024-09-12 21:57:04,161 - INFO - Waiting for CAPTCHA to be solved...
+2024-09-12 21:57:04,161 - ERROR - An unexpected error occurred: name 'time' is not defined
+2024-09-12 21:57:04,453 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e000190>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/16dd1519a222d7a18e2ff791071de187
+2024-09-12 21:57:04,455 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e000160>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/16dd1519a222d7a18e2ff791071de187
+2024-09-12 21:57:04,455 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e0024d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/16dd1519a222d7a18e2ff791071de187
+2024-09-12 21:57:04,495 - INFO - Browser closed. Script finished.
+2024-09-12 21:59:37,763 - INFO - ====== WebDriver manager ======
+2024-09-12 21:59:37,963 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 21:59:38,024 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 21:59:38,085 - INFO - Driver [/Users/alexberish/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-x64/chromedriver] found in cache
+2024-09-12 21:59:42,097 - INFO - Waiting for CAPTCHA to be solved...
+2024-09-12 21:59:42,097 - ERROR - An unexpected error occurred: name 'time' is not defined
+2024-09-12 21:59:42,457 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1064002b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6459ae31d4b4eb9b3b44e83e66b8c202
+2024-09-12 21:59:42,457 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106400280>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6459ae31d4b4eb9b3b44e83e66b8c202
+2024-09-12 21:59:42,458 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106400100>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6459ae31d4b4eb9b3b44e83e66b8c202
+2024-09-12 21:59:42,498 - INFO - Browser closed. Script finished.
+2024-09-12 22:00:33,159 - INFO - ====== WebDriver manager ======
+2024-09-12 22:00:33,400 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:00:33,464 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:00:33,524 - INFO - Driver [/Users/alexberish/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-x64/chromedriver] found in cache
+2024-09-12 22:00:37,056 - INFO - Waiting for CAPTCHA to be solved...
+2024-09-12 22:00:37,056 - ERROR - An unexpected error occurred: name 'time' is not defined
+2024-09-12 22:00:37,350 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103ff9780>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/59d9391813779376bb21b1fbeba1fffe
+2024-09-12 22:00:37,351 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103ff8130>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/59d9391813779376bb21b1fbeba1fffe
+2024-09-12 22:00:37,352 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x103ff83a0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/59d9391813779376bb21b1fbeba1fffe
+2024-09-12 22:00:37,394 - INFO - Browser closed. Script finished.
+2024-09-12 22:00:56,526 - INFO - ====== WebDriver manager ======
+2024-09-12 22:00:56,717 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:00:56,776 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:00:56,835 - INFO - Driver [/Users/alexberish/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-x64/chromedriver] found in cache
+2024-09-12 22:01:00,472 - INFO - Waiting for CAPTCHA to be solved...
+2024-09-12 22:01:00,473 - ERROR - An unexpected error occurred: name 'time' is not defined
+2024-09-12 22:01:00,828 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1112ed840>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/22128c1f285c098887a12792b4ac20ee
+2024-09-12 22:01:00,829 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1112ecdc0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/22128c1f285c098887a12792b4ac20ee
+2024-09-12 22:01:00,830 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1112ec460>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/22128c1f285c098887a12792b4ac20ee
+2024-09-12 22:01:00,869 - INFO - Browser closed. Script finished.
+2024-09-12 22:01:27,120 - INFO - ====== WebDriver manager ======
+2024-09-12 22:01:27,304 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:01:27,368 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:01:27,425 - INFO - Driver [/Users/alexberish/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-x64/chromedriver] found in cache
+2024-09-12 22:01:30,872 - INFO - Waiting for CAPTCHA to be solved...
+2024-09-12 22:01:30,872 - ERROR - An unexpected error occurred: name 'time' is not defined
+2024-09-12 22:01:31,231 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1098e1930>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/48211731c091b01b72374f585132a0d5
+2024-09-12 22:01:31,232 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1098e0eb0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/48211731c091b01b72374f585132a0d5
+2024-09-12 22:01:31,232 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1098e0b20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/48211731c091b01b72374f585132a0d5
+2024-09-12 22:01:31,270 - INFO - Browser closed. Script finished.
+2024-09-12 22:02:40,235 - INFO - ====== WebDriver manager ======
+2024-09-12 22:02:40,504 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:02:40,564 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:02:40,625 - INFO - Driver [/Users/alexberish/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-x64/chromedriver] found in cache
+2024-09-12 22:02:44,498 - INFO - Waiting for CAPTCHA to be solved...
+2024-09-12 22:02:44,500 - ERROR - An unexpected error occurred: name 'time' is not defined
+2024-09-12 22:02:44,857 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105fadb10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/aae2f44ef2446f277ceb56c1e3f70311
+2024-09-12 22:02:44,858 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105fad090>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/aae2f44ef2446f277ceb56c1e3f70311
+2024-09-12 22:02:44,859 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105facc40>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/aae2f44ef2446f277ceb56c1e3f70311
+2024-09-12 22:02:44,900 - INFO - Browser closed. Script finished.
+2024-09-12 22:03:02,491 - INFO - ====== WebDriver manager ======
+2024-09-12 22:03:02,678 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:03:02,736 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:03:02,791 - INFO - Driver [/Users/alexberish/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-x64/chromedriver] found in cache
+2024-09-12 22:03:06,399 - INFO - Waiting for CAPTCHA to be solved...
+2024-09-12 22:03:06,399 - ERROR - An unexpected error occurred: name 'time' is not defined
+2024-09-12 22:03:06,752 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e6edb70>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/21af57ccf169fdcdda34a488b14e7507
+2024-09-12 22:03:06,753 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e6ed0f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/21af57ccf169fdcdda34a488b14e7507
+2024-09-12 22:03:06,753 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10e6ecca0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/21af57ccf169fdcdda34a488b14e7507
+2024-09-12 22:03:06,795 - INFO - Browser closed. Script finished.
+2024-09-12 22:03:35,841 - INFO - ====== WebDriver manager ======
+2024-09-12 22:03:36,033 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:03:36,098 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:03:36,158 - INFO - Driver [/Users/alexberish/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-x64/chromedriver] found in cache
+2024-09-12 22:03:39,951 - INFO - Waiting for CAPTCHA to be solved...
+2024-09-12 22:03:50,141 - INFO - CAPTCHA solved.
+2024-09-12 22:03:50,141 - INFO - Performing case search...
+2024-09-12 22:03:51,464 - INFO - Date range set from 09/11/2024 to 09/11/2024.
+2024-09-12 22:03:56,337 - INFO - Search performed.
+2024-09-12 22:03:56,337 - INFO - Processing page 1...
+2024-09-12 22:03:56,489 - INFO - Processing case 2024-CC-018093-O...
+2024-09-12 22:03:59,672 - INFO - Case details saved for 2024-CC-018093-O.
+2024-09-12 22:04:09,844 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/44168c3bff6aa550f82ae4a7564a71db
+2024-09-12 22:04:09,845 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1088f4cd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/44168c3bff6aa550f82ae4a7564a71db
+2024-09-12 22:04:09,846 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1088f6590>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/44168c3bff6aa550f82ae4a7564a71db
+2024-09-12 22:04:09,850 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1088f7880>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/44168c3bff6aa550f82ae4a7564a71db
+2024-09-12 22:04:09,851 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1088f79a0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/44168c3bff6aa550f82ae4a7564a71db
+2024-09-12 22:04:09,851 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1088f74c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/44168c3bff6aa550f82ae4a7564a71db
+2024-09-12 22:04:09,910 - INFO - Browser closed. Script finished.
+2024-09-12 22:04:48,246 - INFO - ====== WebDriver manager ======
+2024-09-12 22:04:48,490 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:04:48,564 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:04:48,627 - INFO - Driver [/Users/alexberish/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-x64/chromedriver] found in cache
+2024-09-12 22:04:52,293 - INFO - Waiting for CAPTCHA to be solved...
+2024-09-12 22:05:02,037 - INFO - CAPTCHA solved.
+2024-09-12 22:05:02,044 - INFO - Performing case search...
+2024-09-12 22:05:03,347 - INFO - Date range set from 09/11/2024 to 09/11/2024.
+2024-09-12 22:05:08,226 - INFO - Search performed.
+2024-09-12 22:05:08,226 - INFO - Processing page 1...
+2024-09-12 22:05:08,397 - INFO - Processing case 2024-CC-018093-O...
+2024-09-12 22:05:13,538 - INFO - Case details saved for 2024-CC-018093-O.
+2024-09-12 22:05:28,781 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/396d294726f90d109e6b31e199565adc
+2024-09-12 22:05:28,782 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b1ba050>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/396d294726f90d109e6b31e199565adc
+2024-09-12 22:05:28,783 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b1b9150>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/396d294726f90d109e6b31e199565adc
+2024-09-12 22:05:28,787 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b1bb880>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/396d294726f90d109e6b31e199565adc
+2024-09-12 22:05:28,788 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b1bb9a0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/396d294726f90d109e6b31e199565adc
+2024-09-12 22:05:28,789 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b1bb4c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/396d294726f90d109e6b31e199565adc
+2024-09-12 22:05:28,846 - INFO - Browser closed. Script finished.
+2024-09-12 22:09:46,327 - INFO - ====== WebDriver manager ======
+2024-09-12 22:09:46,541 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:09:46,609 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:09:46,666 - INFO - Driver [/Users/alexberish/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-x64/chromedriver] found in cache
+2024-09-12 22:09:50,474 - INFO - Waiting for CAPTCHA to be solved...
+2024-09-12 22:10:01,790 - INFO - CAPTCHA solved.
+2024-09-12 22:10:01,790 - INFO - Performing case search...
+2024-09-12 22:10:03,129 - INFO - Date range set from 09/11/2024 to 09/11/2024.
+2024-09-12 22:10:07,919 - INFO - Search performed.
+2024-09-12 22:10:07,919 - INFO - Processing page 1...
+2024-09-12 22:10:08,117 - INFO - Processing case 2024-CC-018093-O...
+2024-09-12 22:10:11,123 - INFO - Case details saved for 2024-CC-018093-O.
+2024-09-12 22:10:11,127 - INFO - Filing date saved for 2024-CC-018093-O: 09-11-2024
+2024-09-12 22:10:11,127 - ERROR - Error processing case 2024-CC-018093-O: local variable 'e' referenced before assignment
+2024-09-12 22:10:11,127 - INFO - Processing case 2024-CA-008086-O...
+2024-09-12 22:10:11,158 - ERROR - Error processing case 2024-CA-008086-O: Message: no such element: Unable to locate element: {"method":"link text","selector":"2024-CA-008086-O"}
+  (Session info: chrome=128.0.6613.137); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102a15338 chromedriver + 5096248
+1   chromedriver                        0x0000000102a0cb6a chromedriver + 5061482
+2   chromedriver                        0x0000000102597fd0 chromedriver + 389072
+3   chromedriver                        0x00000001025e49ab chromedriver + 702891
+4   chromedriver                        0x00000001025e4a81 chromedriver + 703105
+5   chromedriver                        0x0000000102628cd4 chromedriver + 982228
+6   chromedriver                        0x0000000102608f1d chromedriver + 851741
+7   chromedriver                        0x0000000102626250 chromedriver + 971344
+8   chromedriver                        0x0000000102608c93 chromedriver + 851091
+9   chromedriver                        0x00000001025d7c79 chromedriver + 650361
+10  chromedriver                        0x00000001025d849e chromedriver + 652446
+11  chromedriver                        0x00000001029d80b0 chromedriver + 4845744
+12  chromedriver                        0x00000001029dcfc8 chromedriver + 4865992
+13  chromedriver                        0x00000001029dd695 chromedriver + 4867733
+14  chromedriver                        0x00000001029bace9 chromedriver + 4725993
+15  chromedriver                        0x00000001029dd989 chromedriver + 4868489
+16  chromedriver                        0x00000001029acc04 chromedriver + 4668420
+17  chromedriver                        0x00000001029fce68 chromedriver + 4996712
+18  chromedriver                        0x00000001029fd067 chromedriver + 4997223
+19  chromedriver                        0x0000000102a0c76e chromedriver + 5060462
+20  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:10:11,158 - INFO - Processing case 2024-CA-008085-O...
+2024-09-12 22:10:11,182 - ERROR - Error processing case 2024-CA-008085-O: Message: no such element: Unable to locate element: {"method":"link text","selector":"2024-CA-008085-O"}
+  (Session info: chrome=128.0.6613.137); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102a15338 chromedriver + 5096248
+1   chromedriver                        0x0000000102a0cb6a chromedriver + 5061482
+2   chromedriver                        0x0000000102597fd0 chromedriver + 389072
+3   chromedriver                        0x00000001025e49ab chromedriver + 702891
+4   chromedriver                        0x00000001025e4a81 chromedriver + 703105
+5   chromedriver                        0x0000000102628cd4 chromedriver + 982228
+6   chromedriver                        0x0000000102608f1d chromedriver + 851741
+7   chromedriver                        0x0000000102626250 chromedriver + 971344
+8   chromedriver                        0x0000000102608c93 chromedriver + 851091
+9   chromedriver                        0x00000001025d7c79 chromedriver + 650361
+10  chromedriver                        0x00000001025d849e chromedriver + 652446
+11  chromedriver                        0x00000001029d80b0 chromedriver + 4845744
+12  chromedriver                        0x00000001029dcfc8 chromedriver + 4865992
+13  chromedriver                        0x00000001029dd695 chromedriver + 4867733
+14  chromedriver                        0x00000001029bace9 chromedriver + 4725993
+15  chromedriver                        0x00000001029dd989 chromedriver + 4868489
+16  chromedriver                        0x00000001029acc04 chromedriver + 4668420
+17  chromedriver                        0x00000001029fce68 chromedriver + 4996712
+18  chromedriver                        0x00000001029fd067 chromedriver + 4997223
+19  chromedriver                        0x0000000102a0c76e chromedriver + 5060462
+20  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:10:11,182 - INFO - Processing case 2024-CA-008084-O...
+2024-09-12 22:10:11,204 - ERROR - Error processing case 2024-CA-008084-O: Message: no such element: Unable to locate element: {"method":"link text","selector":"2024-CA-008084-O"}
+  (Session info: chrome=128.0.6613.137); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102a15338 chromedriver + 5096248
+1   chromedriver                        0x0000000102a0cb6a chromedriver + 5061482
+2   chromedriver                        0x0000000102597fd0 chromedriver + 389072
+3   chromedriver                        0x00000001025e49ab chromedriver + 702891
+4   chromedriver                        0x00000001025e4a81 chromedriver + 703105
+5   chromedriver                        0x0000000102628cd4 chromedriver + 982228
+6   chromedriver                        0x0000000102608f1d chromedriver + 851741
+7   chromedriver                        0x0000000102626250 chromedriver + 971344
+8   chromedriver                        0x0000000102608c93 chromedriver + 851091
+9   chromedriver                        0x00000001025d7c79 chromedriver + 650361
+10  chromedriver                        0x00000001025d849e chromedriver + 652446
+11  chromedriver                        0x00000001029d80b0 chromedriver + 4845744
+12  chromedriver                        0x00000001029dcfc8 chromedriver + 4865992
+13  chromedriver                        0x00000001029dd695 chromedriver + 4867733
+14  chromedriver                        0x00000001029bace9 chromedriver + 4725993
+15  chromedriver                        0x00000001029dd989 chromedriver + 4868489
+16  chromedriver                        0x00000001029acc04 chromedriver + 4668420
+17  chromedriver                        0x00000001029fce68 chromedriver + 4996712
+18  chromedriver                        0x00000001029fd067 chromedriver + 4997223
+19  chromedriver                        0x0000000102a0c76e chromedriver + 5060462
+20  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:10:11,204 - INFO - Processing case 2024-CA-008068-O...
+2024-09-12 22:10:11,235 - ERROR - Error processing case 2024-CA-008068-O: Message: no such element: Unable to locate element: {"method":"link text","selector":"2024-CA-008068-O"}
+  (Session info: chrome=128.0.6613.137); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102a15338 chromedriver + 5096248
+1   chromedriver                        0x0000000102a0cb6a chromedriver + 5061482
+2   chromedriver                        0x0000000102597fd0 chromedriver + 389072
+3   chromedriver                        0x00000001025e49ab chromedriver + 702891
+4   chromedriver                        0x00000001025e4a81 chromedriver + 703105
+5   chromedriver                        0x0000000102628cd4 chromedriver + 982228
+6   chromedriver                        0x0000000102608f1d chromedriver + 851741
+7   chromedriver                        0x0000000102626250 chromedriver + 971344
+8   chromedriver                        0x0000000102608c93 chromedriver + 851091
+9   chromedriver                        0x00000001025d7c79 chromedriver + 650361
+10  chromedriver                        0x00000001025d849e chromedriver + 652446
+11  chromedriver                        0x00000001029d80b0 chromedriver + 4845744
+12  chromedriver                        0x00000001029dcfc8 chromedriver + 4865992
+13  chromedriver                        0x00000001029dd695 chromedriver + 4867733
+14  chromedriver                        0x00000001029bace9 chromedriver + 4725993
+15  chromedriver                        0x00000001029dd989 chromedriver + 4868489
+16  chromedriver                        0x00000001029acc04 chromedriver + 4668420
+17  chromedriver                        0x00000001029fce68 chromedriver + 4996712
+18  chromedriver                        0x00000001029fd067 chromedriver + 4997223
+19  chromedriver                        0x0000000102a0c76e chromedriver + 5060462
+20  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:10:11,235 - INFO - Processing case 2024-CA-008060-O...
+2024-09-12 22:10:11,261 - ERROR - Error processing case 2024-CA-008060-O: Message: no such element: Unable to locate element: {"method":"link text","selector":"2024-CA-008060-O"}
+  (Session info: chrome=128.0.6613.137); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102a15338 chromedriver + 5096248
+1   chromedriver                        0x0000000102a0cb6a chromedriver + 5061482
+2   chromedriver                        0x0000000102597fd0 chromedriver + 389072
+3   chromedriver                        0x00000001025e49ab chromedriver + 702891
+4   chromedriver                        0x00000001025e4a81 chromedriver + 703105
+5   chromedriver                        0x0000000102628cd4 chromedriver + 982228
+6   chromedriver                        0x0000000102608f1d chromedriver + 851741
+7   chromedriver                        0x0000000102626250 chromedriver + 971344
+8   chromedriver                        0x0000000102608c93 chromedriver + 851091
+9   chromedriver                        0x00000001025d7c79 chromedriver + 650361
+10  chromedriver                        0x00000001025d849e chromedriver + 652446
+11  chromedriver                        0x00000001029d80b0 chromedriver + 4845744
+12  chromedriver                        0x00000001029dcfc8 chromedriver + 4865992
+13  chromedriver                        0x00000001029dd695 chromedriver + 4867733
+14  chromedriver                        0x00000001029bace9 chromedriver + 4725993
+15  chromedriver                        0x00000001029dd989 chromedriver + 4868489
+16  chromedriver                        0x00000001029acc04 chromedriver + 4668420
+17  chromedriver                        0x00000001029fce68 chromedriver + 4996712
+18  chromedriver                        0x00000001029fd067 chromedriver + 4997223
+19  chromedriver                        0x0000000102a0c76e chromedriver + 5060462
+20  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:10:11,261 - INFO - Processing case 2024-CA-008057-O...
+2024-09-12 22:10:11,283 - ERROR - Error processing case 2024-CA-008057-O: Message: no such element: Unable to locate element: {"method":"link text","selector":"2024-CA-008057-O"}
+  (Session info: chrome=128.0.6613.137); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102a15338 chromedriver + 5096248
+1   chromedriver                        0x0000000102a0cb6a chromedriver + 5061482
+2   chromedriver                        0x0000000102597fd0 chromedriver + 389072
+3   chromedriver                        0x00000001025e49ab chromedriver + 702891
+4   chromedriver                        0x00000001025e4a81 chromedriver + 703105
+5   chromedriver                        0x0000000102628cd4 chromedriver + 982228
+6   chromedriver                        0x0000000102608f1d chromedriver + 851741
+7   chromedriver                        0x0000000102626250 chromedriver + 971344
+8   chromedriver                        0x0000000102608c93 chromedriver + 851091
+9   chromedriver                        0x00000001025d7c79 chromedriver + 650361
+10  chromedriver                        0x00000001025d849e chromedriver + 652446
+11  chromedriver                        0x00000001029d80b0 chromedriver + 4845744
+12  chromedriver                        0x00000001029dcfc8 chromedriver + 4865992
+13  chromedriver                        0x00000001029dd695 chromedriver + 4867733
+14  chromedriver                        0x00000001029bace9 chromedriver + 4725993
+15  chromedriver                        0x00000001029dd989 chromedriver + 4868489
+16  chromedriver                        0x00000001029acc04 chromedriver + 4668420
+17  chromedriver                        0x00000001029fce68 chromedriver + 4996712
+18  chromedriver                        0x00000001029fd067 chromedriver + 4997223
+19  chromedriver                        0x0000000102a0c76e chromedriver + 5060462
+20  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:10:11,283 - INFO - Processing case 2024-CA-008056-O...
+2024-09-12 22:10:11,304 - ERROR - Error processing case 2024-CA-008056-O: Message: no such element: Unable to locate element: {"method":"link text","selector":"2024-CA-008056-O"}
+  (Session info: chrome=128.0.6613.137); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102a15338 chromedriver + 5096248
+1   chromedriver                        0x0000000102a0cb6a chromedriver + 5061482
+2   chromedriver                        0x0000000102597fd0 chromedriver + 389072
+3   chromedriver                        0x00000001025e49ab chromedriver + 702891
+4   chromedriver                        0x00000001025e4a81 chromedriver + 703105
+5   chromedriver                        0x0000000102628cd4 chromedriver + 982228
+6   chromedriver                        0x0000000102608f1d chromedriver + 851741
+7   chromedriver                        0x0000000102626250 chromedriver + 971344
+8   chromedriver                        0x0000000102608c93 chromedriver + 851091
+9   chromedriver                        0x00000001025d7c79 chromedriver + 650361
+10  chromedriver                        0x00000001025d849e chromedriver + 652446
+11  chromedriver                        0x00000001029d80b0 chromedriver + 4845744
+12  chromedriver                        0x00000001029dcfc8 chromedriver + 4865992
+13  chromedriver                        0x00000001029dd695 chromedriver + 4867733
+14  chromedriver                        0x00000001029bace9 chromedriver + 4725993
+15  chromedriver                        0x00000001029dd989 chromedriver + 4868489
+16  chromedriver                        0x00000001029acc04 chromedriver + 4668420
+17  chromedriver                        0x00000001029fce68 chromedriver + 4996712
+18  chromedriver                        0x00000001029fd067 chromedriver + 4997223
+19  chromedriver                        0x0000000102a0c76e chromedriver + 5060462
+20  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:10:11,305 - INFO - Processing case 2024-CA-008051-O...
+2024-09-12 22:10:11,325 - ERROR - Error processing case 2024-CA-008051-O: Message: no such element: Unable to locate element: {"method":"link text","selector":"2024-CA-008051-O"}
+  (Session info: chrome=128.0.6613.137); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102a15338 chromedriver + 5096248
+1   chromedriver                        0x0000000102a0cb6a chromedriver + 5061482
+2   chromedriver                        0x0000000102597fd0 chromedriver + 389072
+3   chromedriver                        0x00000001025e49ab chromedriver + 702891
+4   chromedriver                        0x00000001025e4a81 chromedriver + 703105
+5   chromedriver                        0x0000000102628cd4 chromedriver + 982228
+6   chromedriver                        0x0000000102608f1d chromedriver + 851741
+7   chromedriver                        0x0000000102626250 chromedriver + 971344
+8   chromedriver                        0x0000000102608c93 chromedriver + 851091
+9   chromedriver                        0x00000001025d7c79 chromedriver + 650361
+10  chromedriver                        0x00000001025d849e chromedriver + 652446
+11  chromedriver                        0x00000001029d80b0 chromedriver + 4845744
+12  chromedriver                        0x00000001029dcfc8 chromedriver + 4865992
+13  chromedriver                        0x00000001029dd695 chromedriver + 4867733
+14  chromedriver                        0x00000001029bace9 chromedriver + 4725993
+15  chromedriver                        0x00000001029dd989 chromedriver + 4868489
+16  chromedriver                        0x00000001029acc04 chromedriver + 4668420
+17  chromedriver                        0x00000001029fce68 chromedriver + 4996712
+18  chromedriver                        0x00000001029fd067 chromedriver + 4997223
+19  chromedriver                        0x0000000102a0c76e chromedriver + 5060462
+20  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:10:11,332 - INFO - All pages processed.
+2024-09-12 22:10:11,745 - INFO - Error log saved to /Users/alexberish/Desktop/code/flipping_automation/error_log.json
+2024-09-12 22:10:11,747 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109fc2590>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b925c5208b75857b645eb4a296032c2b
+2024-09-12 22:10:11,748 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109fc2710>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b925c5208b75857b645eb4a296032c2b
+2024-09-12 22:10:11,749 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109fc2890>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b925c5208b75857b645eb4a296032c2b
+2024-09-12 22:10:11,822 - INFO - Browser closed. Script finished.
+2024-09-12 22:11:44,939 - INFO - ====== WebDriver manager ======
+2024-09-12 22:11:45,184 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:11:45,246 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-12 22:11:45,308 - INFO - Driver [/Users/alexberish/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-x64/chromedriver] found in cache
+2024-09-12 22:11:49,249 - INFO - Waiting for CAPTCHA to be solved...
+2024-09-12 22:12:03,044 - INFO - CAPTCHA solved.
+2024-09-12 22:12:03,045 - INFO - Performing case search...
+2024-09-12 22:12:04,385 - INFO - Date range set from 09/11/2024 to 09/11/2024.
+2024-09-12 22:12:09,188 - INFO - Search performed.
+2024-09-12 22:12:09,189 - INFO - Processing page 1...
+2024-09-12 22:12:09,347 - INFO - Processing case 2024-CC-018093-O...
+2024-09-12 22:12:12,369 - INFO - Case details saved for 2024-CC-018093-O.
+2024-09-12 22:12:12,373 - INFO - Filing date saved for 2024-CC-018093-O: 09-11-2024
+2024-09-12 22:12:30,707 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CC-018093-O/Complaint_PDF_2024-CC-018093-O.pdf
+2024-09-12 22:12:30,709 - ERROR - Error processing Complaint for 2024-CC-018093-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:12:30,714 - ERROR - Failed to download Complaint for 2024-CC-018093-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:12:31,971 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CC-018093-O/Lis_Pendens_PDF_2024-CC-018093-O.pdf
+2024-09-12 22:12:31,974 - ERROR - Error processing Pendens for 2024-CC-018093-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:12:31,979 - ERROR - Failed to download Pendens for 2024-CC-018093-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:12:33,186 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CC-018093-O/Real_Property_Value_PDF_2024-CC-018093-O.pdf
+2024-09-12 22:12:33,189 - ERROR - Error processing Value for 2024-CC-018093-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:12:33,193 - ERROR - Failed to download Value for 2024-CC-018093-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:12:35,331 - INFO - Processing case 2024-CA-008086-O...
+2024-09-12 22:12:38,478 - INFO - Case details saved for 2024-CA-008086-O.
+2024-09-12 22:12:38,481 - INFO - Filing date saved for 2024-CA-008086-O: 09-11-2024
+2024-09-12 22:13:00,806 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008086-O/Complaint_PDF_2024-CA-008086-O.pdf
+2024-09-12 22:13:00,812 - ERROR - Error processing Complaint for 2024-CA-008086-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:13:00,819 - ERROR - Failed to download Complaint for 2024-CA-008086-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:13:02,391 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008086-O/Lis_Pendens_PDF_2024-CA-008086-O.pdf
+2024-09-12 22:13:02,393 - ERROR - Error processing Pendens for 2024-CA-008086-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:13:02,398 - ERROR - Failed to download Pendens for 2024-CA-008086-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:13:03,600 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008086-O/Real_Property_Value_PDF_2024-CA-008086-O.pdf
+2024-09-12 22:13:03,603 - ERROR - Error processing Value for 2024-CA-008086-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:13:03,608 - ERROR - Failed to download Value for 2024-CA-008086-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:13:05,732 - INFO - Processing case 2024-CA-008085-O...
+2024-09-12 22:13:08,646 - INFO - Case details saved for 2024-CA-008085-O.
+2024-09-12 22:13:08,649 - INFO - Filing date saved for 2024-CA-008085-O: 09-11-2024
+2024-09-12 22:13:16,897 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008085-O/Complaint_PDF_2024-CA-008085-O.pdf
+2024-09-12 22:13:16,900 - ERROR - Error processing Complaint for 2024-CA-008085-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:13:16,905 - ERROR - Failed to download Complaint for 2024-CA-008085-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:13:19,116 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008085-O/Lis_Pendens_PDF_2024-CA-008085-O.pdf
+2024-09-12 22:13:19,119 - ERROR - Error processing Pendens for 2024-CA-008085-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:13:19,124 - ERROR - Failed to download Pendens for 2024-CA-008085-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:13:20,337 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008085-O/Real_Property_Value_PDF_2024-CA-008085-O.pdf
+2024-09-12 22:13:20,339 - ERROR - Error processing Value for 2024-CA-008085-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:13:20,344 - ERROR - Failed to download Value for 2024-CA-008085-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:13:22,482 - INFO - Processing case 2024-CA-008084-O...
+2024-09-12 22:13:25,960 - INFO - Case details saved for 2024-CA-008084-O.
+2024-09-12 22:13:25,963 - INFO - Filing date saved for 2024-CA-008084-O: 09-11-2024
+2024-09-12 22:14:12,437 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008084-O/Complaint_PDF_2024-CA-008084-O.pdf
+2024-09-12 22:14:12,440 - ERROR - Error processing Complaint for 2024-CA-008084-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:14:12,444 - ERROR - Failed to download Complaint for 2024-CA-008084-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:14:13,677 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008084-O/Lis_Pendens_PDF_2024-CA-008084-O.pdf
+2024-09-12 22:14:13,679 - ERROR - Error processing Pendens for 2024-CA-008084-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:14:13,684 - ERROR - Failed to download Pendens for 2024-CA-008084-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:14:14,896 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008084-O/Real_Property_Value_PDF_2024-CA-008084-O.pdf
+2024-09-12 22:14:14,899 - ERROR - Error processing Value for 2024-CA-008084-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:14:14,903 - ERROR - Failed to download Value for 2024-CA-008084-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:14:17,043 - INFO - Processing case 2024-CA-008068-O...
+2024-09-12 22:14:20,039 - INFO - Case details saved for 2024-CA-008068-O.
+2024-09-12 22:14:20,042 - INFO - Filing date saved for 2024-CA-008068-O: 09-11-2024
+2024-09-12 22:15:13,516 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008068-O/Complaint_PDF_2024-CA-008068-O.pdf
+2024-09-12 22:15:13,519 - ERROR - Error processing Complaint for 2024-CA-008068-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:15:13,524 - ERROR - Failed to download Complaint for 2024-CA-008068-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:15:23,794 - ERROR - Error processing Pendens for 2024-CA-008068-O: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098ca9ab chromedriver + 702891
+4   chromedriver                        0x00000001098caa81 chromedriver + 703105
+5   chromedriver                        0x000000010990ecd4 chromedriver + 982228
+6   chromedriver                        0x00000001098eef1d chromedriver + 851741
+7   chromedriver                        0x000000010990c250 chromedriver + 971344
+8   chromedriver                        0x00000001098eec93 chromedriver + 851091
+9   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+10  chromedriver                        0x00000001098be49e chromedriver + 652446
+11  chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+12  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+13  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+14  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+15  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+16  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+17  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+18  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+19  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+20  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:15:23,803 - ERROR - Failed to download Pendens for 2024-CA-008068-O: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098ca9ab chromedriver + 702891
+4   chromedriver                        0x00000001098caa81 chromedriver + 703105
+5   chromedriver                        0x000000010990ecd4 chromedriver + 982228
+6   chromedriver                        0x00000001098eef1d chromedriver + 851741
+7   chromedriver                        0x000000010990c250 chromedriver + 971344
+8   chromedriver                        0x00000001098eec93 chromedriver + 851091
+9   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+10  chromedriver                        0x00000001098be49e chromedriver + 652446
+11  chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+12  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+13  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+14  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+15  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+16  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+17  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+18  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+19  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+20  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:15:25,042 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008068-O/Real_Property_Value_PDF_2024-CA-008068-O.pdf
+2024-09-12 22:15:25,044 - ERROR - Error processing Value for 2024-CA-008068-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:15:25,049 - ERROR - Failed to download Value for 2024-CA-008068-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:15:27,202 - INFO - Processing case 2024-CA-008060-O...
+2024-09-12 22:15:31,582 - INFO - Case details saved for 2024-CA-008060-O.
+2024-09-12 22:15:31,585 - INFO - Filing date saved for 2024-CA-008060-O: 09-11-2024
+2024-09-12 22:15:42,809 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008060-O/Complaint_PDF_2024-CA-008060-O.pdf
+2024-09-12 22:15:42,811 - ERROR - Error processing Complaint for 2024-CA-008060-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:15:42,814 - ERROR - Failed to download Complaint for 2024-CA-008060-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:15:44,065 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008060-O/Lis_Pendens_PDF_2024-CA-008060-O.pdf
+2024-09-12 22:15:44,067 - ERROR - Error processing Pendens for 2024-CA-008060-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:15:44,071 - ERROR - Failed to download Pendens for 2024-CA-008060-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:15:45,268 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008060-O/Real_Property_Value_PDF_2024-CA-008060-O.pdf
+2024-09-12 22:15:45,269 - ERROR - Error processing Value for 2024-CA-008060-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:15:45,273 - ERROR - Failed to download Value for 2024-CA-008060-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:15:47,400 - INFO - Processing case 2024-CA-008057-O...
+2024-09-12 22:15:50,126 - INFO - Case details saved for 2024-CA-008057-O.
+2024-09-12 22:15:50,128 - INFO - Filing date saved for 2024-CA-008057-O: 09-11-2024
+2024-09-12 22:16:47,597 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008057-O/Complaint_PDF_2024-CA-008057-O.pdf
+2024-09-12 22:16:47,600 - ERROR - Error processing Complaint for 2024-CA-008057-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:16:47,606 - ERROR - Failed to download Complaint for 2024-CA-008057-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:16:48,832 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008057-O/Lis_Pendens_PDF_2024-CA-008057-O.pdf
+2024-09-12 22:16:48,835 - ERROR - Error processing Pendens for 2024-CA-008057-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:16:48,840 - ERROR - Failed to download Pendens for 2024-CA-008057-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:16:50,042 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008057-O/Real_Property_Value_PDF_2024-CA-008057-O.pdf
+2024-09-12 22:16:50,044 - ERROR - Error processing Value for 2024-CA-008057-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:16:50,049 - ERROR - Failed to download Value for 2024-CA-008057-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:16:52,200 - INFO - Processing case 2024-CA-008056-O...
+2024-09-12 22:16:56,214 - INFO - Case details saved for 2024-CA-008056-O.
+2024-09-12 22:16:56,217 - INFO - Filing date saved for 2024-CA-008056-O: 09-11-2024
+2024-09-12 22:17:15,533 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008056-O/Complaint_PDF_2024-CA-008056-O.pdf
+2024-09-12 22:17:15,535 - ERROR - Error processing Complaint for 2024-CA-008056-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:17:15,540 - ERROR - Failed to download Complaint for 2024-CA-008056-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:17:16,803 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008056-O/Lis_Pendens_PDF_2024-CA-008056-O.pdf
+2024-09-12 22:17:16,806 - ERROR - Error processing Pendens for 2024-CA-008056-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:17:16,810 - ERROR - Failed to download Pendens for 2024-CA-008056-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:17:18,019 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008056-O/Real_Property_Value_PDF_2024-CA-008056-O.pdf
+2024-09-12 22:17:18,021 - ERROR - Error processing Value for 2024-CA-008056-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:17:18,026 - ERROR - Failed to download Value for 2024-CA-008056-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:17:20,160 - INFO - Processing case 2024-CA-008051-O...
+2024-09-12 22:17:23,002 - INFO - Case details saved for 2024-CA-008051-O.
+2024-09-12 22:17:23,005 - INFO - Filing date saved for 2024-CA-008051-O: 09-11-2024
+2024-09-12 22:17:40,302 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008051-O/Complaint_PDF_2024-CA-008051-O.pdf
+2024-09-12 22:17:40,304 - ERROR - Error processing Complaint for 2024-CA-008051-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:17:40,309 - ERROR - Failed to download Complaint for 2024-CA-008051-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:17:41,564 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CA-008051-O/Lis_Pendens_PDF_2024-CA-008051-O.pdf
+2024-09-12 22:17:41,565 - ERROR - Error processing Pendens for 2024-CA-008051-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:17:41,568 - ERROR - Failed to download Pendens for 2024-CA-008051-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098553ef chromedriver + 222191
+4   chromedriver                        0x00000001098f6fcd chromedriver + 884685
+5   chromedriver                        0x00000001098fd810 chromedriver + 911376
+6   chromedriver                        0x00000001098eeeb8 chromedriver + 851640
+7   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+8   chromedriver                        0x00000001098be49e chromedriver + 652446
+9   chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+10  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+11  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+12  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+13  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+14  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+15  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+16  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+17  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:17:51,834 - ERROR - Error processing Value for 2024-CA-008051-O: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098ca9ab chromedriver + 702891
+4   chromedriver                        0x00000001098caa81 chromedriver + 703105
+5   chromedriver                        0x000000010990ecd4 chromedriver + 982228
+6   chromedriver                        0x00000001098eef1d chromedriver + 851741
+7   chromedriver                        0x000000010990c250 chromedriver + 971344
+8   chromedriver                        0x00000001098eec93 chromedriver + 851091
+9   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+10  chromedriver                        0x00000001098be49e chromedriver + 652446
+11  chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+12  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+13  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+14  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+15  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+16  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+17  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+18  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+19  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+20  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:17:51,840 - ERROR - Failed to download Value for 2024-CA-008051-O: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000109cfb338 chromedriver + 5096248
+1   chromedriver                        0x0000000109cf2b6a chromedriver + 5061482
+2   chromedriver                        0x000000010987dfd0 chromedriver + 389072
+3   chromedriver                        0x00000001098ca9ab chromedriver + 702891
+4   chromedriver                        0x00000001098caa81 chromedriver + 703105
+5   chromedriver                        0x000000010990ecd4 chromedriver + 982228
+6   chromedriver                        0x00000001098eef1d chromedriver + 851741
+7   chromedriver                        0x000000010990c250 chromedriver + 971344
+8   chromedriver                        0x00000001098eec93 chromedriver + 851091
+9   chromedriver                        0x00000001098bdc79 chromedriver + 650361
+10  chromedriver                        0x00000001098be49e chromedriver + 652446
+11  chromedriver                        0x0000000109cbe0b0 chromedriver + 4845744
+12  chromedriver                        0x0000000109cc2fc8 chromedriver + 4865992
+13  chromedriver                        0x0000000109cc3695 chromedriver + 4867733
+14  chromedriver                        0x0000000109ca0ce9 chromedriver + 4725993
+15  chromedriver                        0x0000000109cc3989 chromedriver + 4868489
+16  chromedriver                        0x0000000109c92c04 chromedriver + 4668420
+17  chromedriver                        0x0000000109ce2e68 chromedriver + 4996712
+18  chromedriver                        0x0000000109ce3067 chromedriver + 4997223
+19  chromedriver                        0x0000000109cf276e chromedriver + 5060462
+20  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+21  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-12 22:17:53,983 - INFO - All pages processed.
+2024-09-12 22:17:54,333 - INFO - Error log saved to /Users/alexberish/Desktop/code/flipping_automation/error_log.json
+2024-09-12 22:17:54,334 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108e6d180>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/ef9ba48ff31a49271819968b94d543d8
+2024-09-12 22:17:54,335 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108e6cca0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/ef9ba48ff31a49271819968b94d543d8
+2024-09-12 22:17:54,336 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108e6d150>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/ef9ba48ff31a49271819968b94d543d8
+2024-09-12 22:17:54,463 - INFO - Browser closed. Script finished.
+2024-09-13 05:08:59,200 - INFO - ====== WebDriver manager ======
+2024-09-13 05:08:59,433 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-13 05:08:59,513 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-13 05:08:59,583 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-13 05:08:59,730 - INFO - WebDriver version 128.0.6613.137 selected
+2024-09-13 05:08:59,731 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.137/mac-x64/chromedriver-mac-x64.zip
+2024-09-13 05:08:59,731 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.137/mac-x64/chromedriver-mac-x64.zip
+2024-09-13 05:08:59,893 - INFO - Driver downloading response is 200
+2024-09-13 05:09:00,208 - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-13 05:09:00,382 - INFO - Driver has been saved in cache [/Users/alexberish/.wdm/drivers/chromedriver/mac64/128.0.6613.137]
+2024-09-13 05:09:05,307 - INFO - Waiting for CAPTCHA to be solved...
+2024-09-13 05:09:22,218 - INFO - CAPTCHA solved.
+2024-09-13 05:09:22,218 - INFO - Performing case search...
+2024-09-13 05:09:23,557 - INFO - Date range set from 09/12/2024 to 09/12/2024.
+2024-09-13 05:09:28,434 - INFO - Search performed.
+2024-09-13 05:09:28,435 - INFO - Processing page 1...
+2024-09-13 05:09:28,603 - INFO - Processing case 2024-CC-018280-O...
+2024-09-13 05:09:31,452 - INFO - Case details saved for 2024-CC-018280-O.
+2024-09-13 05:09:31,456 - INFO - Filing date saved for 2024-CC-018280-O: 09-12-2024
+2024-09-13 05:10:09,916 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CC-018280-O/Complaint_PDF_2024-CC-018280-O.pdf
+2024-09-13 05:10:09,918 - ERROR - Error processing Complaint for 2024-CC-018280-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3fd0 chromedriver + 389072
+3   chromedriver                        0x0000000103d8b3ef chromedriver + 222191
+4   chromedriver                        0x0000000103e2cfcd chromedriver + 884685
+5   chromedriver                        0x0000000103e33810 chromedriver + 911376
+6   chromedriver                        0x0000000103e24eb8 chromedriver + 851640
+7   chromedriver                        0x0000000103df3c79 chromedriver + 650361
+8   chromedriver                        0x0000000103df449e chromedriver + 652446
+9   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+10  chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+11  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+12  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+13  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+14  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+15  chromedriver                        0x0000000104218e68 chromedriver + 4996712
+16  chromedriver                        0x0000000104219067 chromedriver + 4997223
+17  chromedriver                        0x000000010422876e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-13 05:10:09,923 - ERROR - Failed to download Complaint for 2024-CC-018280-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3fd0 chromedriver + 389072
+3   chromedriver                        0x0000000103d8b3ef chromedriver + 222191
+4   chromedriver                        0x0000000103e2cfcd chromedriver + 884685
+5   chromedriver                        0x0000000103e33810 chromedriver + 911376
+6   chromedriver                        0x0000000103e24eb8 chromedriver + 851640
+7   chromedriver                        0x0000000103df3c79 chromedriver + 650361
+8   chromedriver                        0x0000000103df449e chromedriver + 652446
+9   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+10  chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+11  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+12  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+13  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+14  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+15  chromedriver                        0x0000000104218e68 chromedriver + 4996712
+16  chromedriver                        0x0000000104219067 chromedriver + 4997223
+17  chromedriver                        0x000000010422876e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-13 05:10:11,172 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CC-018280-O/Lis_Pendens_PDF_2024-CC-018280-O.pdf
+2024-09-13 05:10:11,174 - ERROR - Error processing Pendens for 2024-CC-018280-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3fd0 chromedriver + 389072
+3   chromedriver                        0x0000000103d8b3ef chromedriver + 222191
+4   chromedriver                        0x0000000103e2cfcd chromedriver + 884685
+5   chromedriver                        0x0000000103e33810 chromedriver + 911376
+6   chromedriver                        0x0000000103e24eb8 chromedriver + 851640
+7   chromedriver                        0x0000000103df3c79 chromedriver + 650361
+8   chromedriver                        0x0000000103df449e chromedriver + 652446
+9   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+10  chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+11  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+12  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+13  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+14  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+15  chromedriver                        0x0000000104218e68 chromedriver + 4996712
+16  chromedriver                        0x0000000104219067 chromedriver + 4997223
+17  chromedriver                        0x000000010422876e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-13 05:10:11,179 - ERROR - Failed to download Pendens for 2024-CC-018280-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3fd0 chromedriver + 389072
+3   chromedriver                        0x0000000103d8b3ef chromedriver + 222191
+4   chromedriver                        0x0000000103e2cfcd chromedriver + 884685
+5   chromedriver                        0x0000000103e33810 chromedriver + 911376
+6   chromedriver                        0x0000000103e24eb8 chromedriver + 851640
+7   chromedriver                        0x0000000103df3c79 chromedriver + 650361
+8   chromedriver                        0x0000000103df449e chromedriver + 652446
+9   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+10  chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+11  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+12  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+13  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+14  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+15  chromedriver                        0x0000000104218e68 chromedriver + 4996712
+16  chromedriver                        0x0000000104219067 chromedriver + 4997223
+17  chromedriver                        0x000000010422876e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-13 05:10:12,775 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CC-018280-O/Real_Property_Value_PDF_2024-CC-018280-O.pdf
+2024-09-13 05:10:12,777 - ERROR - Error processing Value for 2024-CC-018280-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3fd0 chromedriver + 389072
+3   chromedriver                        0x0000000103d8b3ef chromedriver + 222191
+4   chromedriver                        0x0000000103e2cfcd chromedriver + 884685
+5   chromedriver                        0x0000000103e33810 chromedriver + 911376
+6   chromedriver                        0x0000000103e24eb8 chromedriver + 851640
+7   chromedriver                        0x0000000103df3c79 chromedriver + 650361
+8   chromedriver                        0x0000000103df449e chromedriver + 652446
+9   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+10  chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+11  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+12  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+13  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+14  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+15  chromedriver                        0x0000000104218e68 chromedriver + 4996712
+16  chromedriver                        0x0000000104219067 chromedriver + 4997223
+17  chromedriver                        0x000000010422876e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-13 05:10:12,782 - ERROR - Failed to download Value for 2024-CC-018280-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3fd0 chromedriver + 389072
+3   chromedriver                        0x0000000103d8b3ef chromedriver + 222191
+4   chromedriver                        0x0000000103e2cfcd chromedriver + 884685
+5   chromedriver                        0x0000000103e33810 chromedriver + 911376
+6   chromedriver                        0x0000000103e24eb8 chromedriver + 851640
+7   chromedriver                        0x0000000103df3c79 chromedriver + 650361
+8   chromedriver                        0x0000000103df449e chromedriver + 652446
+9   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+10  chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+11  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+12  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+13  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+14  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+15  chromedriver                        0x0000000104218e68 chromedriver + 4996712
+16  chromedriver                        0x0000000104219067 chromedriver + 4997223
+17  chromedriver                        0x000000010422876e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-13 05:10:14,941 - INFO - Processing case 2024-CC-018246-O...
+2024-09-13 05:10:18,584 - INFO - Case details saved for 2024-CC-018246-O.
+2024-09-13 05:10:18,587 - INFO - Filing date saved for 2024-CC-018246-O: 09-12-2024
+2024-09-13 05:10:56,452 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CC-018246-O/Complaint_PDF_2024-CC-018246-O.pdf
+2024-09-13 05:10:56,455 - ERROR - Error processing Complaint for 2024-CC-018246-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3fd0 chromedriver + 389072
+3   chromedriver                        0x0000000103d8b3ef chromedriver + 222191
+4   chromedriver                        0x0000000103e2cfcd chromedriver + 884685
+5   chromedriver                        0x0000000103e33810 chromedriver + 911376
+6   chromedriver                        0x0000000103e24eb8 chromedriver + 851640
+7   chromedriver                        0x0000000103df3c79 chromedriver + 650361
+8   chromedriver                        0x0000000103df449e chromedriver + 652446
+9   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+10  chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+11  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+12  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+13  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+14  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+15  chromedriver                        0x0000000104218e68 chromedriver + 4996712
+16  chromedriver                        0x0000000104219067 chromedriver + 4997223
+17  chromedriver                        0x000000010422876e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-13 05:10:56,460 - ERROR - Failed to download Complaint for 2024-CC-018246-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3fd0 chromedriver + 389072
+3   chromedriver                        0x0000000103d8b3ef chromedriver + 222191
+4   chromedriver                        0x0000000103e2cfcd chromedriver + 884685
+5   chromedriver                        0x0000000103e33810 chromedriver + 911376
+6   chromedriver                        0x0000000103e24eb8 chromedriver + 851640
+7   chromedriver                        0x0000000103df3c79 chromedriver + 650361
+8   chromedriver                        0x0000000103df449e chromedriver + 652446
+9   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+10  chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+11  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+12  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+13  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+14  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+15  chromedriver                        0x0000000104218e68 chromedriver + 4996712
+16  chromedriver                        0x0000000104219067 chromedriver + 4997223
+17  chromedriver                        0x000000010422876e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-13 05:10:57,741 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CC-018246-O/Lis_Pendens_PDF_2024-CC-018246-O.pdf
+2024-09-13 05:10:57,743 - ERROR - Error processing Pendens for 2024-CC-018246-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3fd0 chromedriver + 389072
+3   chromedriver                        0x0000000103d8b3ef chromedriver + 222191
+4   chromedriver                        0x0000000103e2cfcd chromedriver + 884685
+5   chromedriver                        0x0000000103e33810 chromedriver + 911376
+6   chromedriver                        0x0000000103e24eb8 chromedriver + 851640
+7   chromedriver                        0x0000000103df3c79 chromedriver + 650361
+8   chromedriver                        0x0000000103df449e chromedriver + 652446
+9   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+10  chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+11  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+12  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+13  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+14  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+15  chromedriver                        0x0000000104218e68 chromedriver + 4996712
+16  chromedriver                        0x0000000104219067 chromedriver + 4997223
+17  chromedriver                        0x000000010422876e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-13 05:10:57,746 - ERROR - Failed to download Pendens for 2024-CC-018246-O: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.137)
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3fd0 chromedriver + 389072
+3   chromedriver                        0x0000000103d8b3ef chromedriver + 222191
+4   chromedriver                        0x0000000103e2cfcd chromedriver + 884685
+5   chromedriver                        0x0000000103e33810 chromedriver + 911376
+6   chromedriver                        0x0000000103e24eb8 chromedriver + 851640
+7   chromedriver                        0x0000000103df3c79 chromedriver + 650361
+8   chromedriver                        0x0000000103df449e chromedriver + 652446
+9   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+10  chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+11  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+12  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+13  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+14  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+15  chromedriver                        0x0000000104218e68 chromedriver + 4996712
+16  chromedriver                        0x0000000104219067 chromedriver + 4997223
+17  chromedriver                        0x000000010422876e chromedriver + 5060462
+18  libsystem_pthread.dylib             0x00007ff81659d202 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff816598bab thread_start + 15
+
+2024-09-13 05:10:59,033 - INFO - PDF saved as /Users/alexberish/Desktop/code/flipping_automation/case_docs/2024-CC-018246-O/Real_Property_Value_PDF_2024-CC-018246-O.pdf
+2024-09-13 05:10:59,385 - ERROR - Error processing Value for 2024-CC-018246-O: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3e01 chromedriver + 388609
+3   chromedriver                        0x0000000103df2f45 chromedriver + 646981
+4   chromedriver                        0x0000000103e24dd4 chromedriver + 851412
+5   chromedriver                        0x0000000103e1f61b chromedriver + 828955
+6   chromedriver                        0x0000000103e1efe7 chromedriver + 827367
+7   chromedriver                        0x0000000103d8184f chromedriver + 182351
+8   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+9   chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+10  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+11  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+12  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+13  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+14  chromedriver                        0x0000000103d8021a chromedriver + 176666
+15  dyld                                0x00007ff816212386 start + 1942
+
+2024-09-13 05:10:59,386 - ERROR - Failed to download Value for 2024-CC-018246-O: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3e01 chromedriver + 388609
+3   chromedriver                        0x0000000103df2f45 chromedriver + 646981
+4   chromedriver                        0x0000000103e24dd4 chromedriver + 851412
+5   chromedriver                        0x0000000103e1f61b chromedriver + 828955
+6   chromedriver                        0x0000000103e1efe7 chromedriver + 827367
+7   chromedriver                        0x0000000103d8184f chromedriver + 182351
+8   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+9   chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+10  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+11  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+12  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+13  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+14  chromedriver                        0x0000000103d8021a chromedriver + 176666
+15  dyld                                0x00007ff816212386 start + 1942
+
+2024-09-13 05:10:59,387 - ERROR - Error processing case 2024-CC-018246-O: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3e01 chromedriver + 388609
+3   chromedriver                        0x0000000103df2f45 chromedriver + 646981
+4   chromedriver                        0x0000000103e24dd4 chromedriver + 851412
+5   chromedriver                        0x0000000103e1f61b chromedriver + 828955
+6   chromedriver                        0x0000000103e1efe7 chromedriver + 827367
+7   chromedriver                        0x0000000103d8184f chromedriver + 182351
+8   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+9   chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+10  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+11  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+12  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+13  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+14  chromedriver                        0x0000000103d8021a chromedriver + 176666
+15  dyld                                0x00007ff816212386 start + 1942
+
+2024-09-13 05:10:59,387 - INFO - Processing case 2024-CC-018241-O...
+2024-09-13 05:10:59,388 - ERROR - Error processing case 2024-CC-018241-O: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3e01 chromedriver + 388609
+3   chromedriver                        0x0000000103df2f45 chromedriver + 646981
+4   chromedriver                        0x0000000103e24dd4 chromedriver + 851412
+5   chromedriver                        0x0000000103e1f61b chromedriver + 828955
+6   chromedriver                        0x0000000103e1efe7 chromedriver + 827367
+7   chromedriver                        0x0000000103d8184f chromedriver + 182351
+8   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+9   chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+10  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+11  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+12  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+13  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+14  chromedriver                        0x0000000103d8021a chromedriver + 176666
+15  dyld                                0x00007ff816212386 start + 1942
+
+2024-09-13 05:10:59,388 - INFO - Processing case 2024-CC-018225-O...
+2024-09-13 05:10:59,389 - ERROR - Error processing case 2024-CC-018225-O: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3e01 chromedriver + 388609
+3   chromedriver                        0x0000000103df2f45 chromedriver + 646981
+4   chromedriver                        0x0000000103e24dd4 chromedriver + 851412
+5   chromedriver                        0x0000000103e1f61b chromedriver + 828955
+6   chromedriver                        0x0000000103e1efe7 chromedriver + 827367
+7   chromedriver                        0x0000000103d8184f chromedriver + 182351
+8   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+9   chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+10  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+11  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+12  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+13  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+14  chromedriver                        0x0000000103d8021a chromedriver + 176666
+15  dyld                                0x00007ff816212386 start + 1942
+
+2024-09-13 05:10:59,389 - INFO - Processing case 2024-CA-008124-O...
+2024-09-13 05:10:59,390 - ERROR - Error processing case 2024-CA-008124-O: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3e01 chromedriver + 388609
+3   chromedriver                        0x0000000103df2f45 chromedriver + 646981
+4   chromedriver                        0x0000000103e24dd4 chromedriver + 851412
+5   chromedriver                        0x0000000103e1f61b chromedriver + 828955
+6   chromedriver                        0x0000000103e1efe7 chromedriver + 827367
+7   chromedriver                        0x0000000103d8184f chromedriver + 182351
+8   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+9   chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+10  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+11  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+12  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+13  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+14  chromedriver                        0x0000000103d8021a chromedriver + 176666
+15  dyld                                0x00007ff816212386 start + 1942
+
+2024-09-13 05:10:59,390 - INFO - Processing case 2024-CA-008120-O...
+2024-09-13 05:10:59,391 - ERROR - Error processing case 2024-CA-008120-O: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3e01 chromedriver + 388609
+3   chromedriver                        0x0000000103df2f45 chromedriver + 646981
+4   chromedriver                        0x0000000103e24dd4 chromedriver + 851412
+5   chromedriver                        0x0000000103e1f61b chromedriver + 828955
+6   chromedriver                        0x0000000103e1efe7 chromedriver + 827367
+7   chromedriver                        0x0000000103d8184f chromedriver + 182351
+8   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+9   chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+10  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+11  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+12  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+13  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+14  chromedriver                        0x0000000103d8021a chromedriver + 176666
+15  dyld                                0x00007ff816212386 start + 1942
+
+2024-09-13 05:10:59,391 - INFO - Processing case 2024-CA-008118-O...
+2024-09-13 05:10:59,392 - ERROR - Error processing case 2024-CA-008118-O: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3e01 chromedriver + 388609
+3   chromedriver                        0x0000000103df2f45 chromedriver + 646981
+4   chromedriver                        0x0000000103e24dd4 chromedriver + 851412
+5   chromedriver                        0x0000000103e1f61b chromedriver + 828955
+6   chromedriver                        0x0000000103e1efe7 chromedriver + 827367
+7   chromedriver                        0x0000000103d8184f chromedriver + 182351
+8   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+9   chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+10  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+11  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+12  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+13  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+14  chromedriver                        0x0000000103d8021a chromedriver + 176666
+15  dyld                                0x00007ff816212386 start + 1942
+
+2024-09-13 05:10:59,392 - INFO - Processing case 2024-CA-008117-O...
+2024-09-13 05:10:59,393 - ERROR - Error processing case 2024-CA-008117-O: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3e01 chromedriver + 388609
+3   chromedriver                        0x0000000103df2f45 chromedriver + 646981
+4   chromedriver                        0x0000000103e24dd4 chromedriver + 851412
+5   chromedriver                        0x0000000103e1f61b chromedriver + 828955
+6   chromedriver                        0x0000000103e1efe7 chromedriver + 827367
+7   chromedriver                        0x0000000103d8184f chromedriver + 182351
+8   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+9   chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+10  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+11  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+12  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+13  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+14  chromedriver                        0x0000000103d8021a chromedriver + 176666
+15  dyld                                0x00007ff816212386 start + 1942
+
+2024-09-13 05:10:59,393 - INFO - Processing case 2024-CA-008113-O...
+2024-09-13 05:10:59,394 - ERROR - Error processing case 2024-CA-008113-O: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3e01 chromedriver + 388609
+3   chromedriver                        0x0000000103df2f45 chromedriver + 646981
+4   chromedriver                        0x0000000103e24dd4 chromedriver + 851412
+5   chromedriver                        0x0000000103e1f61b chromedriver + 828955
+6   chromedriver                        0x0000000103e1efe7 chromedriver + 827367
+7   chromedriver                        0x0000000103d8184f chromedriver + 182351
+8   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+9   chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+10  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+11  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+12  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+13  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+14  chromedriver                        0x0000000103d8021a chromedriver + 176666
+15  dyld                                0x00007ff816212386 start + 1942
+
+2024-09-13 05:10:59,394 - ERROR - An unexpected error occurred: Message: invalid session id
+Stacktrace:
+0   chromedriver                        0x0000000104231338 chromedriver + 5096248
+1   chromedriver                        0x0000000104228b6a chromedriver + 5061482
+2   chromedriver                        0x0000000103db3e01 chromedriver + 388609
+3   chromedriver                        0x0000000103df2f45 chromedriver + 646981
+4   chromedriver                        0x0000000103e24dd4 chromedriver + 851412
+5   chromedriver                        0x0000000103e1f61b chromedriver + 828955
+6   chromedriver                        0x0000000103e1efe7 chromedriver + 827367
+7   chromedriver                        0x0000000103d8184f chromedriver + 182351
+8   chromedriver                        0x00000001041f40b0 chromedriver + 4845744
+9   chromedriver                        0x00000001041f8fc8 chromedriver + 4865992
+10  chromedriver                        0x00000001041f9695 chromedriver + 4867733
+11  chromedriver                        0x00000001041d6ce9 chromedriver + 4725993
+12  chromedriver                        0x00000001041f9989 chromedriver + 4868489
+13  chromedriver                        0x00000001041c8c04 chromedriver + 4668420
+14  chromedriver                        0x0000000103d8021a chromedriver + 176666
+15  dyld                                0x00007ff816212386 start + 1942
+
+2024-09-13 05:10:59,402 - INFO - Error log saved to /Users/alexberish/Desktop/code/flipping_automation/error_log.json
+2024-09-13 05:10:59,404 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1055c4e80>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6b554d35c0074176593200a56901e4db
+2024-09-13 05:10:59,405 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1055c40d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6b554d35c0074176593200a56901e4db
+2024-09-13 05:10:59,407 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1055c4cd0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/6b554d35c0074176593200a56901e4db
+2024-09-13 05:10:59,504 - INFO - Browser closed. Script finished.

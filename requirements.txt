@@ -1,0 +1,3 @@
+pdf2image
+openai
+requests
